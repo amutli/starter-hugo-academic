@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 75
 
 title: Passion Projects
 subtitle: 'Projects that are connected to my research interests but are not academic-formatted.'
