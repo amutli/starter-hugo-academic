@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope-open
     icon_pack: fab
-    link: ameomutli@gmail.com
+    link: mailto:ameomutli@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ameomutli
