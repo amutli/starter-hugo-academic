@@ -20,7 +20,7 @@ feature:
     name: Research
   - description: 70%
     icon: fa-python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
   - description: 113%
     icon: lightbulb
