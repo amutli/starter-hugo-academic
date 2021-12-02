@@ -19,7 +19,7 @@ feature:
     icon_pack: fas
     name: Research
   - description: 70%
-    icon: f3e2
+    icon: <i class="fab fa-python"></i>
     icon_pack: fab
     name: Python
   - description: 113%
