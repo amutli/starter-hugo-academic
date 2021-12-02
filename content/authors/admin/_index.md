@@ -36,4 +36,4 @@ email: ""
 I study development and behavioral economics - most of my research is on migration and determinants of migration in the modern world. My hypothesis is that determinants of migration can be identified through the use of computational complexity theory and prospect theory.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vTQ4NMNDPUUKFBRs3jxKAW7anwiwvaK-tOysmxh8CJdj0re4VS0vLbQe6H6dAa3si-b3JL6Z17q7FMM/pub?embedded=true" "newtab" >}}resumé{{< /gdocs >}}.
