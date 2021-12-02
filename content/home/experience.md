@@ -24,8 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Research & Teaching Assistant
     company: Dr Hossein Kazemi @ Boston College
-    company_url: ''
-    company_logo: org-gc
     location: Chestnut Hill, MA
     date_start: '2021-09-01'
     date_end: '2022-05-30'
@@ -38,8 +36,6 @@ experience:
         
   - title: Research Associate
     company: Dr Mark Kazarosian @ Boston College
-    company_url: ''
-    company_logo: org-x
     location: Chestnut Hill, MA
     date_start: '2021-01-01'
     date_end: '2021-07-31'
