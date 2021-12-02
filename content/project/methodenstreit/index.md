@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Debate on Research Methods
+summary: A modern continuation of one of the oldest, most prominent debates in the history of economics.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
