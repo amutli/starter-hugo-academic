@@ -1,6 +1,6 @@
 ---
-title: Anna Meomutli
 role: Researcher in Development & Behavioral Economics
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -31,9 +31,10 @@ education:
     - course: BA in Economics, Politics, Philosophy
       institution: Suffolk University
       year: 2016
-email: ""
 superuser: true
 highlight_name: true
+title: Anna Meomutli
+email: ""
 ---
 
 Anna Meomutli
