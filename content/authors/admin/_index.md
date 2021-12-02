@@ -1,13 +1,16 @@
 ---
 role: Student & researcher in Development & Behavioral Economics
 avatar_filename: "avatar.png"
-bio: My research interests include distributed robotics, mobile computing and
+bio: 
   programmable matter.
 interests:
   - Complexity Economics
   - Development Economics
   - Behavioral Economics
 social:
+  - icon: envelope-open
+    icon_pack: fab
+    link: ameomutli@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ameomutli
