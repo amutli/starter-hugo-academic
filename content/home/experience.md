@@ -27,26 +27,16 @@ experience:
     location: Chestnut Hill, MA & Cambridge, MA
     date_start: '2021-09-01'
     date_end: '2022-05-30'
-    description: |2-
-    
-        
   - title: Research Associate
     company: Dr Mark Kazarosian @ Boston College
     location: Chestnut Hill, MA
     date_start: '2021-01-01'
     date_end: '2021-07-31'
-    description: 
-•	Conducted an in-depth literature review on the topic of causality of campus diversity in several databases (IPEDS)
-•	Compiled a raw data set for regression analysis using R (OLS, MLS)
-•	Performed a regression data analysis, classification and clustering with existing data using R and Stata
-•	Maintained tight research timeline and carefully managed literature database using GSuite, Zotero
   - title: Research Assistant
     company: Dr Alison Kelly Hawke @ Suffolk University
     location: Boston, MA
     date_start: '2019-05-01'
     date_end: '2020-05-01'
-    description: Taught electronic engineering and researched semiconductor physics.
-
 design:
   columns: '2'
 ---
