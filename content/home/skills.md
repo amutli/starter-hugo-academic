@@ -14,9 +14,17 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 99%
+    icon: newspaper
     icon_pack: fas
-    name: Photography
+    name: Research
+  - description: 70%
+    icon: python
+    icon_pack: fas
+    name: Python
+  - description: 113%
+    icon: lightbulb
+    icon_pack: fas
+    name: Curiosity
 active: true
 ---
