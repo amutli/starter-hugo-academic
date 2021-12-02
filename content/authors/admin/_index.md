@@ -1,6 +1,6 @@
 ---
 role: Researcher in Development & Behavioral Economics
-avatar_filename: ""
+avatar_filename: "avatar.png"
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
