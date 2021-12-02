@@ -37,5 +37,5 @@ I am an international student in MSc at Boston College where I study economics. 
 
 I mainly focus on development and behavioral economics - most of my research is on **migration** and **determinants of migration** in the modern world. My hypothesis is that determinants of migration can be identified through the use of **computational complexity theory** and **prospect theory**.
 
-Here you can download my research summary and my ![CV](https://drive.google.com/file/d/1PbXFJ-Zt9QZGrKxRLro6zkgLmxeTX0pt/view?usp=sharing). If you want to connect me with me, email me ![here](mailto:ameomutli@gmail.com).
+Here you can download my research summary and my [CV](https://drive.google.com/file/d/1PbXFJ-Zt9QZGrKxRLro6zkgLmxeTX0pt/view?usp=sharing). If you want to connect me with me, email me [here](mailto:ameomutli@gmail.com).
 
