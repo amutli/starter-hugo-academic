@@ -1,7 +1,7 @@
 ---
 widget: featured
 widget_id: 
-weight: 80
+weight: 90
 title: Academic Projects
 subtitle: ""
 active: true
