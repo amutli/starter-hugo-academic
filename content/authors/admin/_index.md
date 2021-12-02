@@ -14,7 +14,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/amutli
-  - icon: envelope-open
+  - icon: envelope
     icon_pack: fab
     link: mailto:ameomutli@gmail.com
   - icon: linkedin
