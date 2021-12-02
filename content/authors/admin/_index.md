@@ -33,9 +33,6 @@ highlight_name: true
 title: Anna Meomutli
 email: ""
 ---
-
-I am a Master's student in Applied Economics at Boston College.
-
 I study development and behavioral economics - most of my research is on migration and determinants of migration in the modern world. My hypothesis is that determinants of migration can be identified through the use of computational complexity theory and prospect theory.
 
 
