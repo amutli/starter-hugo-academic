@@ -7,10 +7,10 @@ title: Skills
 subtitle: null
 feature:
   - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
+    icon: laptop-code
+    icon_pack: fas
+    name: Programming
+  - description: 85%
     icon: chart-line
     icon_pack: fas
     name: Statistics
@@ -18,11 +18,7 @@ feature:
     icon: newspaper
     icon_pack: fas
     name: Research
-  - description: 70%
-    icon: <i class="fab fa-python"></i>
-    icon_pack: fab
-    name: Python
-  - description: 113%
+  - description: 115%
     icon: lightbulb
     icon_pack: fas
     name: Curiosity
