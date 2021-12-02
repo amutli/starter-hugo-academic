@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: Main Projects
+widget_id: Academic Projects
 weight: 80
 title: Main Projects
 subtitle: ""
