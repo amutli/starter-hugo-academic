@@ -1,12 +1,12 @@
 ---
-role: Researcher in Development & Behavioral Economics
+role: Student & researcher in Development & Behavioral Economics
 avatar_filename: "avatar.png"
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Complexity Economics
+  - Development Economics
+  - Behavioral Economics
 social:
   - icon: twitter
     icon_pack: fab
@@ -33,4 +33,9 @@ highlight_name: true
 title: Anna Meomutli
 email: "ameomutli@gmail.com"
 ---
-I study development and behavioral economics - most of my research is on migration and determinants of migration in the modern world. My hypothesis is that determinants of migration can be identified through the use of computational complexity theory and prospect theory.
+I am an international student in MSc at Boston College where I study economics. My passion has always been decoding of human rationale and decision-making. Here you can find my academic and passion projects! 
+
+I mainly focus on development and behavioral economics - most of my research is on migration and determinants of migration in the modern world. My hypothesis is that determinants of migration can be identified through the use of computational complexity theory and prospect theory.
+
+Here you can download my research summary and my CV. If you want to connect me with me, email me @ ...
+
