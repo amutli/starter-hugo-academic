@@ -14,12 +14,12 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 99%
+  - description: 100%
     icon: newspaper
     icon_pack: fas
     name: Research
   - description: 70%
-    icon: python
+    icon: fa-python
     icon_pack: fas
     name: Python
   - description: 113%
