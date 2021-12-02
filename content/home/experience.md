@@ -40,6 +40,12 @@ experience:
     date_start: '2021-01-01'
     date_end: '2021-07-31'
     description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Assistant
+    company: Dr Alison Kelly @ Suffolk University
+    location: Chestnut Hill, MA
+    date_start: '2019-05-01'
+    date_end: '2020-05-01'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
